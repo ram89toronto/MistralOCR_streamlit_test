@@ -4,6 +4,8 @@
 
 OCR Mistral is a Streamlit application that allows users to upload PDF documents and extract text in Markdown format using the Mistral OCR API. This project leverages the capabilities of the Mistral API to provide accurate text extraction from PDF files.
 
+## Skip the documentation and want to directly try with your MISTRAL API ? Try here : https://mistralocrtest.streamlit.app/
+
 ## Features
 - Upload PDF files for OCR processing.
 - Extracted text is displayed in Markdown format.
